@@ -3,13 +3,13 @@ https://www.iconfinder.com/icons/1243689/call_phone_icon
 Creative Commons (Attribution 3.0 Unported);
 https://www.iconfinder.com/Makoto_msk */
 import RWImg1 from '../src/img/product-1.PNG'
-import RWImg2 from '../src/img/product-2.png'
-import RWImg3 from '../src/img/product-3.png'
-import RWImg4 from '../src/img/product-4.png'
-import RWImg5 from '../src/img/product-5.png'
-import RWImg6 from '../src/img/product-6.png'
-import RWImg7 from '../src/img/product-7.png'
-import RWImg8 from '../src/img/product-8.png'
+import RWImg2 from '../src/img/product-2.PNG'
+import RWImg3 from '../src/img/product-3.PNG'
+import RWImg4 from '../src/img/product-4.PNG'
+import RWImg5 from '../src/img/product-5.PNG'
+import RWImg6 from '../src/img/product-6.PNG'
+import RWImg7 from '../src/img/product-7.PNG'
+import RWImg8 from '../src/img/product-8.PNG'
 
 
 export const storeProducts = [
